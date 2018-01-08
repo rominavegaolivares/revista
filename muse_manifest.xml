@@ -1,0 +1,1185 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="revista-desvergonzada.cl" resolutions="1x" timestamp="1496086657502">
+  <folder name="css">
+    <file name="site_global.css" crc="365843426"/>
+    <file name="master_a-master.css" crc="100942755" ref="secciones:artículos:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="377798921" ref="secciones:artículos:index"/>
+    <file name="master_a-master-naranjo.css" crc="313391641" ref="reseñas-y-críticas:agenda-cultural"/>
+    <file name="nomq_preview_master_a-master-naranjo.css" crc="3824530138" ref="reseñas-y-críticas:agenda-cultural"/>
+    <file name="master_a-master-celeste.css" crc="4177575356" ref="reportajes:voces:la-revista:entrevistas"/>
+    <file name="nomq_preview_master_a-master-celeste.css" crc="324409719" ref="reportajes:voces:la-revista:entrevistas"/>
+    <file name="reportajes.css" crc="4270299729" ref="reportajes"/>
+    <file name="nomq_reportajes.css" crc="3856223890" ref="reportajes"/>
+    <file name="secciones.css" crc="32720076" ref="secciones"/>
+    <file name="nomq_secciones.css" crc="3763606569" ref="secciones"/>
+    <file name="voces.css" crc="437872171" ref="voces"/>
+    <file name="nomq_voces.css" crc="3951233062" ref="voces"/>
+    <file name="iefonts_voces.css" crc="4090892843" ref="voces"/>
+    <file name="rese_as-y-cr_ticas.css" crc="81668292" ref="reseñas-y-críticas"/>
+    <file name="nomq_rese_as-y-cr_ticas.css" crc="8752721" ref="reseñas-y-críticas"/>
+    <file name="agenda-cultural.css" crc="3778988296" ref="agenda-cultural"/>
+    <file name="nomq_agenda-cultural.css" crc="396815605" ref="agenda-cultural"/>
+    <file name="la-revista.css" crc="267539136" ref="la-revista"/>
+    <file name="nomq_la-revista.css" crc="3981978871" ref="la-revista"/>
+    <file name="art_culos.css" crc="4155946607" ref="artículos"/>
+    <file name="nomq_art_culos.css" crc="3804966536" ref="artículos"/>
+    <file name="entrevistas.css" crc="436433431" ref="entrevistas"/>
+    <file name="nomq_entrevistas.css" crc="461598155" ref="entrevistas"/>
+    <file name="index.css" crc="481037734" ref="index"/>
+    <file name="nomq_index.css" crc="454172135" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="desvergonzada-17-05.pdf" crc="3985143842" seo="true" mt="1495071202000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>secciones:phone>entrevistas:phone>reportajes:phone>artículos:phone>reseñas-y-críticas:phone>agenda-cultural:phone>la-revista:phone>voces:index:secciones:voces:agenda-cultural:la-revista:entrevistas:reportajes:artículos:reseñas-y-críticas"/>
+    <file name="museutils.js" crc="4232573551" ref="phone>index:phone>secciones:phone>entrevistas:phone>reportajes:phone>artículos:phone>reseñas-y-críticas:phone>agenda-cultural:phone>la-revista:phone>voces:index:secciones:voces:agenda-cultural:la-revista:entrevistas:reportajes:artículos:reseñas-y-críticas"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>secciones:phone>entrevistas:phone>reportajes:phone>artículos:phone>reseñas-y-críticas:phone>agenda-cultural:phone>la-revista:phone>voces:index:secciones:voces:agenda-cultural:la-revista:entrevistas:reportajes:artículos:reseñas-y-críticas"/>
+    <file name="museconfig.js" crc="3849126041" ref="phone>index:phone>secciones:phone>entrevistas:phone>reportajes:phone>artículos:phone>reseñas-y-críticas:phone>agenda-cultural:phone>la-revista:phone>voces:index:secciones:voces:agenda-cultural:la-revista:entrevistas:reportajes:artículos:reseñas-y-críticas"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="phone>index:phone>secciones:phone>entrevistas:phone>reportajes:phone>artículos:phone>reseñas-y-críticas:phone>agenda-cultural:phone>la-revista:phone>voces:index:secciones:voces:agenda-cultural:la-revista:entrevistas:reportajes:artículos:reseñas-y-críticas"/>
+    <file name="webpro.js" crc="3770351119" ref="phone>index:phone>secciones:phone>entrevistas:phone>reportajes:phone>artículos:phone>reseñas-y-críticas:phone>agenda-cultural:phone>la-revista:phone>voces:index:secciones:voces:agenda-cultural:la-revista:entrevistas:reportajes:artículos:reseñas-y-críticas"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="phone>index:phone>secciones:phone>entrevistas:phone>reportajes:phone>artículos:phone>reseñas-y-críticas:phone>agenda-cultural:phone>la-revista:phone>voces:index:secciones:voces:agenda-cultural:la-revista:entrevistas:reportajes:artículos:reseñas-y-críticas"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="phone>index:phone>secciones:phone>entrevistas:phone>reportajes:phone>artículos:phone>reseñas-y-críticas:phone>agenda-cultural:phone>la-revista:phone>voces:index:secciones:voces:agenda-cultural:la-revista:entrevistas:reportajes:artículos:reseñas-y-críticas"/>
+    <file name="touchswipe.js" crc="3912873526" ref="phone>index:phone>secciones:phone>entrevistas:phone>reportajes:phone>artículos:phone>reseñas-y-críticas:phone>agenda-cultural:phone>la-revista:phone>voces:index:secciones:voces:agenda-cultural:la-revista:entrevistas:reportajes:artículos:reseñas-y-críticas"/>
+    <file name="require.js" crc="4234670167" ref="phone>index:phone>secciones:phone>entrevistas:phone>reportajes:phone>artículos:phone>reseñas-y-críticas:phone>agenda-cultural:phone>la-revista:phone>voces:index:secciones:voces:agenda-cultural:la-revista:entrevistas:reportajes:artículos:reseñas-y-críticas"/>
+    <file name="form_check.php" crc="3841221102" ref="phone>voces"/>
+    <file name="form_throttle.php" crc="4048049783" ref="phone>voces"/>
+    <file name="form_process.php" crc="3899230280" ref="phone>voces"/>
+    <file name="form-u30752.php" crc="4285458606" ref="phone>voces"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="index:voces:agenda-cultural:entrevistas:reportajes:artículos:reseñas-y-críticas"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:secciones:voces:agenda-cultural:la-revista:entrevistas:reportajes:artículos:reseñas-y-críticas"/>
+    <file name="form-u18323.php" crc="509017350" ref="voces"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted-svg-140673x237.svg" crc="349869321" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 140673x237_poster_.png" crc="3942115555" ref="phone>index"/>
+    <file name="4927015500_09af65b8d0_o-crop-u27763.png" crc="59939580" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pointer.png" crc="3760686964" seo="true" ref="phone>index:phone>secciones:phone>entrevistas:phone>reportajes:phone>artículos:phone>reseñas-y-críticas:phone>agenda-cultural:phone>la-revista:phone>voces:index:secciones:voces:agenda-cultural:la-revista:entrevistas:reportajes:artículos:reseñas-y-críticas">
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="agenda-cultural" alt=""/>
+      <caption webpage="agenda-cultural" alt=""/>
+      <caption webpage="agenda-cultural" alt=""/>
+      <caption webpage="agenda-cultural" alt=""/>
+      <caption webpage="agenda-cultural" alt=""/>
+      <caption webpage="agenda-cultural" alt=""/>
+      <caption webpage="agenda-cultural" alt=""/>
+      <caption webpage="agenda-cultural" alt=""/>
+      <caption webpage="agenda-cultural" alt=""/>
+      <caption webpage="agenda-cultural" alt=""/>
+      <caption webpage="agenda-cultural" alt=""/>
+      <caption webpage="agenda-cultural" alt=""/>
+      <caption webpage="agenda-cultural" alt=""/>
+      <caption webpage="agenda-cultural" alt=""/>
+      <caption webpage="agenda-cultural" alt=""/>
+      <caption webpage="agenda-cultural" alt=""/>
+      <caption webpage="agenda-cultural" alt=""/>
+      <caption webpage="agenda-cultural" alt=""/>
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="voces" alt=""/>
+      <caption webpage="voces" alt=""/>
+      <caption webpage="voces" alt=""/>
+      <caption webpage="voces" alt=""/>
+      <caption webpage="voces" alt=""/>
+      <caption webpage="voces" alt=""/>
+      <caption webpage="voces" alt=""/>
+      <caption webpage="voces" alt=""/>
+      <caption webpage="voces" alt=""/>
+      <caption webpage="voces" alt=""/>
+      <caption webpage="voces" alt=""/>
+      <caption webpage="voces" alt=""/>
+      <caption webpage="voces" alt=""/>
+      <caption webpage="voces" alt=""/>
+      <caption webpage="voces" alt=""/>
+      <caption webpage="voces" alt=""/>
+      <caption webpage="voces" alt=""/>
+      <caption webpage="voces" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="reportajes" alt=""/>
+      <caption webpage="reportajes" alt=""/>
+      <caption webpage="reportajes" alt=""/>
+      <caption webpage="reportajes" alt=""/>
+      <caption webpage="reportajes" alt=""/>
+      <caption webpage="reportajes" alt=""/>
+      <caption webpage="reportajes" alt=""/>
+      <caption webpage="reportajes" alt=""/>
+      <caption webpage="reportajes" alt=""/>
+      <caption webpage="reportajes" alt=""/>
+      <caption webpage="reportajes" alt=""/>
+      <caption webpage="reportajes" alt=""/>
+      <caption webpage="reportajes" alt=""/>
+      <caption webpage="reportajes" alt=""/>
+      <caption webpage="reportajes" alt=""/>
+      <caption webpage="reportajes" alt=""/>
+      <caption webpage="reportajes" alt=""/>
+      <caption webpage="reportajes" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+    </file>
+    <file name="bars-01.png" crc="3886579552" seo="true" ref="phone>index:phone>secciones:phone>entrevistas:phone>reportajes:phone>artículos:phone>reseñas-y-críticas:phone>agenda-cultural:phone>la-revista:phone>voces:index:secciones:voces:agenda-cultural:la-revista:entrevistas:reportajes:artículos:reseñas-y-críticas">
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="agenda-cultural" alt=""/>
+      <caption webpage="agenda-cultural" alt=""/>
+      <caption webpage="agenda-cultural" alt=""/>
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="voces" alt=""/>
+      <caption webpage="voces" alt=""/>
+      <caption webpage="voces" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="reportajes" alt=""/>
+      <caption webpage="reportajes" alt=""/>
+      <caption webpage="reportajes" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+    </file>
+    <file name="close_light.png" crc="126613487" seo="true" ref="phone>index:phone>secciones:phone>entrevistas:phone>reportajes:phone>artículos:phone>reseñas-y-críticas:phone>agenda-cultural:phone>la-revista:phone>voces:index:secciones:voces:agenda-cultural:la-revista:entrevistas:reportajes:artículos:reseñas-y-críticas">
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="agenda-cultural" alt=""/>
+      <caption webpage="agenda-cultural" alt=""/>
+      <caption webpage="agenda-cultural" alt=""/>
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="voces" alt=""/>
+      <caption webpage="voces" alt=""/>
+      <caption webpage="voces" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="reportajes" alt=""/>
+      <caption webpage="reportajes" alt=""/>
+      <caption webpage="reportajes" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+    </file>
+    <file name="6146989255_8b4a7d725a_o154x155.png" crc="4008286505" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u28049-7.png" crc="166672890" ref="phone>index"/>
+    <file name="u28048-4.png" crc="4097136214" ref="phone>index"/>
+    <file name="u29609-4.png" crc="3849219984" ref="phone>index"/>
+    <file name="u29611-5.png" crc="330508927" ref="phone>index"/>
+    <file name="4927015500_09af65b8d0_o-crop-u29661.png" crc="425802894" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="673349019640-breastmilkbabydoll162x134.png" crc="3954369319" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u29681-4.png" crc="3839721451" ref="phone>index"/>
+    <file name="u29687-4.png" crc="3991556314" ref="phone>index"/>
+    <file name="u29689-4.png" crc="501237977" ref="phone>index"/>
+    <file name="aborto3186x123.png" crc="217744562" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u29688-4.png" crc="93613784" ref="phone>index"/>
+    <file name="embarazada2.png" crc="3943263546" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flores5.png" crc="325603576" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flores6.png" crc="518882714" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>secciones:phone>voces:index:secciones:voces:agenda-cultural:la-revista:entrevistas:reportajes:artículos:reseñas-y-críticas"/>
+    <file name="u29684_states.png" crc="3813947601" ref="phone>index"/>
+    <file name="u29684_states-r.png" crc="4283184978" ref="phone>index"/>
+    <file name="u29610_states.png" crc="94800900" ref="phone>index"/>
+    <file name="u29610_states-r.png" crc="3981035736" ref="phone>index"/>
+    <file name="u29682_states.png" crc="247633686" ref="phone>index"/>
+    <file name="u29682_states-r.png" crc="323683141" ref="phone>index"/>
+    <file name="u29683_states.png" crc="4253462935" ref="phone>index"/>
+    <file name="u29683_states-r.png" crc="13552948" ref="phone>index"/>
+    <file name="u29695-4.png" crc="412849735" ref="phone>index"/>
+    <file name="u29696-4.png" crc="417311535" ref="phone>index"/>
+    <file name="17457038760_b172dd2903_k156x112.png" crc="3826281672" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u29698_states.png" crc="202169801" ref="phone>index"/>
+    <file name="u29698_states-r.png" crc="4272358199" ref="phone>index"/>
+    <file name="u27367-4.png" crc="97176022" ref="phone>index:phone>secciones:phone>artículos"/>
+    <file name="pasted-svg-49652x49.svg" crc="4043457220" seo="true" ref="phone>index:phone>secciones:phone>entrevistas:phone>reportajes:phone>artículos:phone>reseñas-y-críticas:phone>agenda-cultural:phone>la-revista:phone>voces:index:secciones:voces:agenda-cultural:la-revista:entrevistas:reportajes:artículos:reseñas-y-críticas">
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="agenda-cultural" alt=""/>
+      <caption webpage="agenda-cultural" alt=""/>
+      <caption webpage="agenda-cultural" alt=""/>
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="voces" alt=""/>
+      <caption webpage="voces" alt=""/>
+      <caption webpage="voces" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="reportajes" alt=""/>
+      <caption webpage="reportajes" alt=""/>
+      <caption webpage="reportajes" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+    </file>
+    <file name="pasted svg 49652x49_poster_.png" crc="4223532295" ref="phone>index"/>
+    <file name="pasted-svg-49652x492.svg" crc="407107209" seo="true" ref="phone>index:phone>secciones:phone>entrevistas:phone>reportajes:phone>artículos:phone>reseñas-y-críticas:phone>agenda-cultural:phone>la-revista:phone>voces:index:secciones:voces:agenda-cultural:la-revista:entrevistas:reportajes:artículos:reseñas-y-críticas">
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="agenda-cultural" alt=""/>
+      <caption webpage="agenda-cultural" alt=""/>
+      <caption webpage="agenda-cultural" alt=""/>
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="voces" alt=""/>
+      <caption webpage="voces" alt=""/>
+      <caption webpage="voces" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="reportajes" alt=""/>
+      <caption webpage="reportajes" alt=""/>
+      <caption webpage="reportajes" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+    </file>
+    <file name="pasted svg 49652x49_poster_2.png" crc="461651806" ref="phone>index"/>
+    <file name="u27366-4.png" crc="3916334420" ref="phone>index:phone>secciones:phone>artículos"/>
+    <file name="pasted-svg-49652x493.svg" crc="123955020" seo="true" ref="phone>index:phone>secciones:phone>entrevistas:phone>reportajes:phone>artículos:phone>reseñas-y-críticas:phone>agenda-cultural:phone>la-revista:phone>voces:index:secciones:voces:agenda-cultural:la-revista:entrevistas:reportajes:artículos:reseñas-y-críticas">
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="agenda-cultural" alt=""/>
+      <caption webpage="agenda-cultural" alt=""/>
+      <caption webpage="agenda-cultural" alt=""/>
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="voces" alt=""/>
+      <caption webpage="voces" alt=""/>
+      <caption webpage="voces" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="reportajes" alt=""/>
+      <caption webpage="reportajes" alt=""/>
+      <caption webpage="reportajes" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+    </file>
+    <file name="pasted svg 49652x49_poster_3.png" crc="456260361" ref="phone>index"/>
+    <file name="u30158-4.png" crc="4143475017" ref="phone>secciones"/>
+    <file name="30342013914_f4c23720d1_o.png" crc="252392860" seo="true" ref="phone>secciones:secciones">
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="secciones" alt=""/>
+    </file>
+    <file name="u30167_states.png" crc="323326021" ref="phone>secciones"/>
+    <file name="u30167_states-r.png" crc="3911274186" ref="phone>secciones"/>
+    <file name="u30331_states.png" crc="4018106700" ref="phone>secciones"/>
+    <file name="u30331_states-r.png" crc="453492692" ref="phone>secciones"/>
+    <file name="14952225700_8cdef722a6_o-crop-u30332.png" crc="421076300" seo="true" ref="phone>secciones">
+      <caption webpage="secciones" alt=""/>
+    </file>
+    <file name="u30351_states.png" crc="457927962" ref="phone>secciones"/>
+    <file name="u30351_states-r.png" crc="4255726519" ref="phone>secciones"/>
+    <file name="danivega-crop-u30352.png" crc="3894966466" seo="true" ref="phone>secciones">
+      <caption webpage="secciones" alt=""/>
+    </file>
+    <file name="female hand with microphone.png" crc="4126466076" seo="true" ref="phone>entrevistas:entrevistas">
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+    </file>
+    <file name="u30361-4.png" crc="3803375482" ref="phone>entrevistas"/>
+    <file name="o-mouth-speaking-facebook.png" crc="3775420923" seo="true" ref="phone>entrevistas:entrevistas">
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+      <caption webpage="entrevistas" alt=""/>
+    </file>
+    <file name="u30414-4.png" crc="425951226" ref="phone>entrevistas"/>
+    <file name="u29919-4.png" crc="97176022" ref="phone>entrevistas:phone>reportajes:phone>la-revista:phone>voces"/>
+    <file name="u29915-4.png" crc="3916334420" ref="phone>entrevistas:phone>reportajes:phone>la-revista:phone>voces"/>
+    <file name="u30529-4.png" crc="67955622" ref="phone>reportajes"/>
+    <file name="ablacion2202x119.png" crc="224312400" seo="true" ref="phone>reportajes">
+      <caption webpage="reportajes" alt=""/>
+    </file>
+    <file name="u30541-4.png" crc="528562461" ref="phone>reportajes"/>
+    <file name="u30590-4.png" crc="4012343843" ref="phone>artículos"/>
+    <file name="u30594-4.png" crc="3863878882" ref="phone>artículos"/>
+    <file name="13435308244_bb1a04184d_o.png" crc="3895538743" seo="true" ref="phone>artículos:artículos">
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="artículos" alt=""/>
+      <caption webpage="artículos" alt=""/>
+    </file>
+    <file name="u30847-4.png" crc="101600647" ref="phone>reseñas-y-críticas"/>
+    <file name="u30850-4.png" crc="233244613" ref="phone>reseñas-y-críticas"/>
+    <file name="38882222-book.png" crc="4203904321" seo="true" ref="phone>reseñas-y-críticas:reseñas-y-críticas">
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="reseñas-y-críticas" alt=""/>
+    </file>
+    <file name="movies93x127.png" crc="3990680704" seo="true" ref="phone>reseñas-y-críticas">
+      <caption webpage="reseñas-y-críticas" alt=""/>
+    </file>
+    <file name="u29984-4.png" crc="97176022" ref="phone>reseñas-y-críticas:phone>agenda-cultural"/>
+    <file name="u29983-4.png" crc="3916334420" ref="phone>reseñas-y-críticas:phone>agenda-cultural"/>
+    <file name="u30899-4.png" crc="3979718444" ref="phone>agenda-cultural"/>
+    <file name="u30902-4.png" crc="421117891" ref="phone>agenda-cultural"/>
+    <file name="teatro1176x118.png" crc="4200346673" seo="true" ref="phone>agenda-cultural">
+      <caption webpage="agenda-cultural" alt=""/>
+    </file>
+    <file name="u31590-6.png" crc="4052518488" ref="phone>agenda-cultural"/>
+    <file name="u31612-4.png" crc="4096636644" ref="phone>agenda-cultural"/>
+    <file name="u31617-4.png" crc="200057457" ref="phone>agenda-cultural"/>
+    <file name="u31595-6.png" crc="328878545" ref="phone>agenda-cultural"/>
+    <file name="u31621-4.png" crc="3759225634" ref="phone>agenda-cultural"/>
+    <file name="u31625-4.png" crc="4177034912" ref="phone>agenda-cultural"/>
+    <file name="u31599-6.png" crc="4070037091" ref="phone>agenda-cultural"/>
+    <file name="u31629-4.png" crc="419042874" ref="phone>agenda-cultural"/>
+    <file name="u31633-4.png" crc="370049869" ref="phone>agenda-cultural"/>
+    <file name="u31603-6.png" crc="4156305403" ref="phone>agenda-cultural"/>
+    <file name="u31637-4.png" crc="424731466" ref="phone>agenda-cultural"/>
+    <file name="u31641-4.png" crc="3978395275" ref="phone>agenda-cultural"/>
+    <file name="u32435-6.png" crc="3875227924" ref="phone>agenda-cultural"/>
+    <file name="u32438-4.png" crc="4191656448" ref="phone>agenda-cultural"/>
+    <file name="u32441-4.png" crc="4101112620" ref="phone>agenda-cultural"/>
+    <file name="u32444-6.png" crc="25888629" ref="phone>agenda-cultural"/>
+    <file name="u32447-4.png" crc="4199678963" ref="phone>agenda-cultural"/>
+    <file name="u32450-4.png" crc="4104425404" ref="phone>agenda-cultural"/>
+    <file name="u32453-6.png" crc="3991721939" ref="phone>agenda-cultural"/>
+    <file name="u32456-4.png" crc="3926494511" ref="phone>agenda-cultural"/>
+    <file name="u32459-4.png" crc="366680393" ref="phone>agenda-cultural"/>
+    <file name="u32462-6.png" crc="187465949" ref="phone>agenda-cultural"/>
+    <file name="u32465-4.png" crc="3904740693" ref="phone>agenda-cultural"/>
+    <file name="u32468-4.png" crc="3771678517" ref="phone>agenda-cultural"/>
+    <file name="u32471-6.png" crc="4179110866" ref="phone>agenda-cultural"/>
+    <file name="u32474-4.png" crc="3949395825" ref="phone>agenda-cultural"/>
+    <file name="u32477-4.png" crc="4047174216" ref="phone>agenda-cultural"/>
+    <file name="u32480-6.png" crc="159832555" ref="phone>agenda-cultural"/>
+    <file name="u32483-4.png" crc="3845464285" ref="phone>agenda-cultural"/>
+    <file name="u32486-4.png" crc="3779207270" ref="phone>agenda-cultural"/>
+    <file name="u32502-6.png" crc="4174802163" ref="phone>agenda-cultural"/>
+    <file name="u32498-4.png" crc="3895476296" ref="phone>agenda-cultural"/>
+    <file name="u32499-4.png" crc="4220000279" ref="phone>agenda-cultural"/>
+    <file name="u32503-6.png" crc="410656672" ref="phone>agenda-cultural"/>
+    <file name="u32500-4.png" crc="165543166" ref="phone>agenda-cultural"/>
+    <file name="u32501-4.png" crc="4239788730" ref="phone>agenda-cultural"/>
+    <file name="u32494-6.png" crc="410656672" ref="phone>agenda-cultural"/>
+    <file name="u32496-4.png" crc="433721798" ref="phone>agenda-cultural"/>
+    <file name="u32492-4.png" crc="320643359" ref="phone>agenda-cultural"/>
+    <file name="u32495-6.png" crc="3950883959" ref="phone>agenda-cultural"/>
+    <file name="u32497-4.png" crc="67057454" ref="phone>agenda-cultural"/>
+    <file name="u32493-4.png" crc="4178581612" ref="phone>agenda-cultural"/>
+    <file name="u32540-6.png" crc="363911522" ref="phone>agenda-cultural"/>
+    <file name="u32534-4.png" crc="406361675" ref="phone>agenda-cultural"/>
+    <file name="u32537-4.png" crc="170051300" ref="phone>agenda-cultural"/>
+    <file name="u32549-6.png" crc="199913915" ref="phone>agenda-cultural"/>
+    <file name="u32543-4.png" crc="206730562" ref="phone>agenda-cultural"/>
+    <file name="u32546-4.png" crc="3763189998" ref="phone>agenda-cultural"/>
+    <file name="u32552-6.png" crc="413535453" ref="phone>agenda-cultural"/>
+    <file name="u32555-4.png" crc="505482236" ref="phone>agenda-cultural"/>
+    <file name="u32558-4.png" crc="385944562" ref="phone>agenda-cultural"/>
+    <file name="u32561-6.png" crc="202217780" ref="phone>agenda-cultural"/>
+    <file name="u32564-4.png" crc="317661652" ref="phone>agenda-cultural"/>
+    <file name="u32567-4.png" crc="373007608" ref="phone>agenda-cultural"/>
+    <file name="u32570-6.png" crc="4266447486" ref="phone>agenda-cultural"/>
+    <file name="u32573-4.png" crc="383593341" ref="phone>agenda-cultural"/>
+    <file name="u32576-4.png" crc="4251892174" ref="phone>agenda-cultural"/>
+    <file name="u31709-4-a.png" crc="3878496848" ref="phone>la-revista"/>
+    <file name="u31773-4-a.png" crc="3994093894" ref="phone>la-revista"/>
+    <file name="mas-portadas-0974x105.jpg" crc="359979088" seo="true" ref="phone>la-revista">
+      <caption webpage="la-revista" alt=""/>
+    </file>
+    <file name="mas-portadas-08.png" crc="131747889" seo="true" ref="phone>la-revista:la-revista">
+      <caption webpage="la-revista" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+    </file>
+    <file name="mas-portadas-0773x105.jpg" crc="4005901674" seo="true" ref="phone>la-revista">
+      <caption webpage="la-revista" alt=""/>
+    </file>
+    <file name="mas-portadas-06.png" crc="305986937" seo="true" ref="phone>la-revista:la-revista">
+      <caption webpage="la-revista" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+    </file>
+    <file name="mas-portadas-0573x105.jpg" crc="4087259669" seo="true" ref="phone>la-revista">
+      <caption webpage="la-revista" alt=""/>
+    </file>
+    <file name="mas-portadas-04.png" crc="56191666" seo="true" ref="phone>la-revista:la-revista">
+      <caption webpage="la-revista" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+      <caption webpage="la-revista" alt=""/>
+    </file>
+    <file name="mas-portadas-0373x105.jpg" crc="3886509772" seo="true" ref="phone>la-revista">
+      <caption webpage="la-revista" alt=""/>
+    </file>
+    <file name="mas-portadas-0273x105.jpg" crc="231088785" seo="true" ref="phone>la-revista">
+      <caption webpage="la-revista" alt=""/>
+    </file>
+    <file name="mas-portadas-0173x105.jpg" crc="126890641" seo="true" ref="phone>la-revista">
+      <caption webpage="la-revista" alt=""/>
+    </file>
+    <file name="u30630-4.png" crc="136270855" ref="phone>voces"/>
+    <file name="u30658-6.png" crc="4288257461" ref="phone>voces"/>
+    <file name="3396582569_962373bc0a_o107x107.png" crc="4018096171" seo="true" ref="phone>voces">
+      <caption webpage="voces" alt=""/>
+    </file>
+    <file name="3436694176_e2a167e125_o120x132.png" crc="3851957175" seo="true" ref="phone>voces">
+      <caption webpage="voces" alt=""/>
+    </file>
+    <file name="u30769.png" crc="4174507675" ref="phone>voces"/>
+    <file name="u30769-r.png" crc="4114967078" ref="phone>voces"/>
+    <file name="u30836.png" crc="239406967" ref="phone>voces"/>
+    <file name="u30836-r.png" crc="54103648" ref="phone>voces"/>
+    <file name="4927015500_09af65b8d0_o.png" crc="377607780" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-492181x105.svg" crc="4095685252" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 492181x105_poster_.png" crc="188272342" ref="index"/>
+    <file name="pasted-svg-460982x99.svg" crc="4209170748" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 460982x99_poster_.png" crc="513659893" ref="index"/>
+    <file name="pasted-svg-648969x117.svg" crc="4149110807" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 648969x117_poster_.png" crc="452005885" ref="index"/>
+    <file name="6146989255_8b4a7d725a_o.png" crc="4099654495" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u11881-4.png" crc="3914218387" ref="index"/>
+    <file name="u11888-7.png" crc="231158719" ref="index"/>
+    <file name="u13304-4.png" crc="4204658589" ref="index"/>
+    <file name="u13384-5.png" crc="4036464190" ref="index"/>
+    <file name="u13402_states.png" crc="3805375297" ref="index"/>
+    <file name="u13402_states-r.png" crc="3973673965" ref="index"/>
+    <file name="673349019640-breastmilkbabydoll.png" crc="502109178" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u12538-4.png" crc="265626751" ref="index"/>
+    <file name="u14889-4.png" crc="3877112094" ref="index"/>
+    <file name="u14904-4.png" crc="469602390" ref="index"/>
+    <file name="aborto3.png" crc="4068762515" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u15185-4.png" crc="4294773917" ref="index"/>
+    <file name="u14567_states.png" crc="3862910088" ref="index"/>
+    <file name="u14567_states-r.png" crc="117681381" ref="index"/>
+    <file name="u15180_states.png" crc="125774668" ref="index"/>
+    <file name="u15180_states-r.png" crc="105931448" ref="index"/>
+    <file name="u14582_states.png" crc="4053913334" ref="index"/>
+    <file name="u14582_states-r.png" crc="300663683" ref="index"/>
+    <file name="u17808-4.png" crc="224235139" ref="index"/>
+    <file name="u17809-4.png" crc="16003503" ref="index"/>
+    <file name="17457038760_b172dd2903_k.png" crc="4275555359" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u17824_states.png" crc="3806013171" ref="index"/>
+    <file name="u17824_states-r.png" crc="340363667" ref="index"/>
+    <file name="u26717-4.png" crc="3768228871" ref="index:secciones:artículos"/>
+    <file name="u15875-4.png" crc="420616236" ref="index:secciones:artículos"/>
+    <file name="u13402_states2.png" crc="497068105" ref="index"/>
+    <file name="u13402_states-r2.png" crc="3768247528" ref="index"/>
+    <file name="u11888-72.png" crc="231158719" ref="index"/>
+    <file name="u13384-52.png" crc="4186235910" ref="index"/>
+    <file name="u12538-42.png" crc="419299856" ref="index"/>
+    <file name="u17808-42.png" crc="3968083155" ref="index"/>
+    <file name="u17809-42.png" crc="44967744" ref="index"/>
+    <file name="u17824_states2.png" crc="4040281875" ref="index"/>
+    <file name="u17824_states-r2.png" crc="294238956" ref="index"/>
+    <file name="u11881-42.png" crc="3914218387" ref="index"/>
+    <file name="u13304-42.png" crc="3905498235" ref="index"/>
+    <file name="u14889-42.png" crc="3877112094" ref="index"/>
+    <file name="u14904-42.png" crc="469602390" ref="index"/>
+    <file name="u14567_states2.png" crc="3862910088" ref="index"/>
+    <file name="u14567_states-r2.png" crc="117681381" ref="index"/>
+    <file name="u15180_states2.png" crc="125774668" ref="index"/>
+    <file name="u15180_states-r2.png" crc="105931448" ref="index"/>
+    <file name="u14582_states2.png" crc="4238896749" ref="index"/>
+    <file name="u14582_states-r2.png" crc="227317865" ref="index"/>
+    <file name="u15185-42.png" crc="33432638" ref="index"/>
+    <file name="u16197-4.png" crc="256810921" ref="secciones"/>
+    <file name="danivega.png" crc="335993094" seo="true" ref="secciones">
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="secciones" alt=""/>
+    </file>
+    <file name="u16366_states.png" crc="3945595696" ref="secciones"/>
+    <file name="u16366_states-r.png" crc="3805417302" ref="secciones"/>
+    <file name="u16310_states.png" crc="232480253" ref="secciones"/>
+    <file name="u16310_states-r.png" crc="4215428662" ref="secciones"/>
+    <file name="u16360_states.png" crc="4014795355" ref="secciones"/>
+    <file name="u16360_states-r.png" crc="211874022" ref="secciones"/>
+    <file name="14952225700_8cdef722a6_o.png" crc="4243108785" seo="true" ref="secciones">
+      <caption webpage="secciones" alt=""/>
+      <caption webpage="secciones" alt=""/>
+    </file>
+    <file name="u16197-42.png" crc="256810921" ref="secciones"/>
+    <file name="u16366_states2.png" crc="435801442" ref="secciones"/>
+    <file name="u16366_states-r2.png" crc="3773809670" ref="secciones"/>
+    <file name="u16310_states2.png" crc="357232775" ref="secciones"/>
+    <file name="u16310_states-r2.png" crc="452987735" ref="secciones"/>
+    <file name="u16360_states2.png" crc="4002478666" ref="secciones"/>
+    <file name="u16360_states-r2.png" crc="3803626860" ref="secciones"/>
+    <file name="3396582569_962373bc0a_o.png" crc="4042293478" seo="true" ref="voces">
+      <caption webpage="voces" alt=""/>
+      <caption webpage="voces" alt=""/>
+    </file>
+    <file name="3436694176_e2a167e125_o.png" crc="3777892844" seo="true" ref="voces">
+      <caption webpage="voces" alt=""/>
+      <caption webpage="voces" alt=""/>
+    </file>
+    <file name="u18206-4.png" crc="4089953293" ref="voces"/>
+    <file name="u18499-6.png" crc="339833705" ref="voces"/>
+    <file name="slit shadow 2 sharp.png" crc="510555609" seo="true" ref="voces">
+      <caption webpage="voces" alt=""/>
+      <caption webpage="voces" alt=""/>
+    </file>
+    <file name="u18440.png" crc="3919718959" ref="voces"/>
+    <file name="u18440-r.png" crc="449636113" ref="voces"/>
+    <file name="u18446.png" crc="4019289875" ref="voces"/>
+    <file name="u18446-r.png" crc="397823752" ref="voces"/>
+    <file name="u28436-4.png" crc="3768228871" ref="voces:la-revista:entrevistas:reportajes"/>
+    <file name="u28439-4.png" crc="420616236" ref="voces:la-revista:entrevistas:reportajes"/>
+    <file name="u18206-42.png" crc="4089953293" ref="voces"/>
+    <file name="u18499-62.png" crc="424775150" ref="voces"/>
+    <file name="u184402.png" crc="3919718959" ref="voces"/>
+    <file name="u18440-r2.png" crc="449636113" ref="voces"/>
+    <file name="u184462.png" crc="4019289875" ref="voces"/>
+    <file name="u18446-r2.png" crc="397823752" ref="voces"/>
+    <file name="teatro1.png" crc="4236019026" seo="true" ref="agenda-cultural">
+      <caption webpage="agenda-cultural" alt=""/>
+      <caption webpage="agenda-cultural" alt=""/>
+    </file>
+    <file name="u20605-4.png" crc="51143714" ref="agenda-cultural"/>
+    <file name="u20615-4.png" crc="248717740" ref="agenda-cultural"/>
+    <file name="u20099-6.png" crc="35150756" ref="agenda-cultural"/>
+    <file name="u19831-4.png" crc="439110456" ref="agenda-cultural"/>
+    <file name="u20108-4.png" crc="304801521" ref="agenda-cultural"/>
+    <file name="u20128_states.png" crc="4035263315" ref="agenda-cultural"/>
+    <file name="u20128_states-r.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u20137-4.png" crc="451646456" ref="agenda-cultural"/>
+    <file name="u20178-6.png" crc="285218282" ref="agenda-cultural"/>
+    <file name="u20183-4.png" crc="4016575499" ref="agenda-cultural"/>
+    <file name="u20195-4.png" crc="83058273" ref="agenda-cultural"/>
+    <file name="u20187_states.png" crc="4035263315" ref="agenda-cultural"/>
+    <file name="u20187_states-r.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u20191-4.png" crc="511020623" ref="agenda-cultural"/>
+    <file name="u20284-6.png" crc="22788494" ref="agenda-cultural"/>
+    <file name="u20289-4.png" crc="3797859046" ref="agenda-cultural"/>
+    <file name="u20293-4.png" crc="294101922" ref="agenda-cultural"/>
+    <file name="u20305_states.png" crc="4035263315" ref="agenda-cultural"/>
+    <file name="u20305_states-r.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u20301-4.png" crc="419982933" ref="agenda-cultural"/>
+    <file name="u20355-6.png" crc="337134956" ref="agenda-cultural"/>
+    <file name="u20351-4.png" crc="349496979" ref="agenda-cultural"/>
+    <file name="u20347-4.png" crc="453853509" ref="agenda-cultural"/>
+    <file name="u20343_states.png" crc="4035263315" ref="agenda-cultural"/>
+    <file name="u20343_states-r.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u20339-4.png" crc="4243745221" ref="agenda-cultural"/>
+    <file name="u20362-6.png" crc="3875346561" ref="agenda-cultural"/>
+    <file name="u20359-4.png" crc="532098722" ref="agenda-cultural"/>
+    <file name="u20360-4.png" crc="284823769" ref="agenda-cultural"/>
+    <file name="u20363_states.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u20363_states-r.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u20361-4.png" crc="172828167" ref="agenda-cultural"/>
+    <file name="u20440-6.png" crc="212151970" ref="agenda-cultural"/>
+    <file name="u20449-4.png" crc="43766649" ref="agenda-cultural"/>
+    <file name="u20446-4.png" crc="454273429" ref="agenda-cultural"/>
+    <file name="u20455_states.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u20455_states-r.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u20452-4.png" crc="89045385" ref="agenda-cultural"/>
+    <file name="u20479-6.png" crc="4148188730" ref="agenda-cultural"/>
+    <file name="u20482-4.png" crc="4024473972" ref="agenda-cultural"/>
+    <file name="u20485-4.png" crc="276645303" ref="agenda-cultural"/>
+    <file name="u20488_states.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u20488_states-r.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u20491-4.png" crc="246652598" ref="agenda-cultural"/>
+    <file name="u20515-6.png" crc="3792716972" ref="agenda-cultural"/>
+    <file name="u20518-4.png" crc="4131433913" ref="agenda-cultural"/>
+    <file name="u20521-4.png" crc="4032870778" ref="agenda-cultural"/>
+    <file name="u20524_states.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u20524_states-r.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u20527-4.png" crc="4157908731" ref="agenda-cultural"/>
+    <file name="u20548-6.png" crc="3952802062" ref="agenda-cultural"/>
+    <file name="u20554-4.png" crc="4036253627" ref="agenda-cultural"/>
+    <file name="u20557-4.png" crc="333046628" ref="agenda-cultural"/>
+    <file name="u20560_states.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u20560_states-r.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u20563-4.png" crc="237721791" ref="agenda-cultural"/>
+    <file name="u20584-6.png" crc="3843768688" ref="agenda-cultural"/>
+    <file name="u20587-4.png" crc="314019832" ref="agenda-cultural"/>
+    <file name="u20590-4.png" crc="203449517" ref="agenda-cultural"/>
+    <file name="u20593_states.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u20593_states-r.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u20596-4.png" crc="484990802" ref="agenda-cultural"/>
+    <file name="u24316-6.png" crc="4154623691" ref="agenda-cultural"/>
+    <file name="u24310-4.png" crc="522079398" ref="agenda-cultural"/>
+    <file name="u24312-4.png" crc="416954624" ref="agenda-cultural"/>
+    <file name="u24318_states.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u24318_states-r.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u24314-4.png" crc="4210302473" ref="agenda-cultural"/>
+    <file name="u24317-6.png" crc="4080948168" ref="agenda-cultural"/>
+    <file name="u24311-4.png" crc="314829013" ref="agenda-cultural"/>
+    <file name="u24313-4.png" crc="482756774" ref="agenda-cultural"/>
+    <file name="u24319_states.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u24319_states-r.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u24315-4.png" crc="188571576" ref="agenda-cultural"/>
+    <file name="u25380-6.png" crc="4080948168" ref="agenda-cultural"/>
+    <file name="u25375-4.png" crc="195005214" ref="agenda-cultural"/>
+    <file name="u25370-4.png" crc="535240783" ref="agenda-cultural"/>
+    <file name="u25365_states.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u25365_states-r.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u25359-4.png" crc="188571576" ref="agenda-cultural"/>
+    <file name="u25442-6.png" crc="197223968" ref="agenda-cultural"/>
+    <file name="u25437-4.png" crc="3883871100" ref="agenda-cultural"/>
+    <file name="u25432-4.png" crc="111742783" ref="agenda-cultural"/>
+    <file name="u25421_states.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u25421_states-r.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u25427-4.png" crc="188571576" ref="agenda-cultural"/>
+    <file name="u25617-6.png" crc="3769301504" ref="agenda-cultural"/>
+    <file name="u25611-4.png" crc="461041944" ref="agenda-cultural"/>
+    <file name="u25612-4.png" crc="294006759" ref="agenda-cultural"/>
+    <file name="u25613_states.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u25613_states-r.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u25622-4.png" crc="3970902768" ref="agenda-cultural"/>
+    <file name="u25618-6.png" crc="341381292" ref="agenda-cultural"/>
+    <file name="u25614-4.png" crc="3940879437" ref="agenda-cultural"/>
+    <file name="u25615-4.png" crc="4134643286" ref="agenda-cultural"/>
+    <file name="u25616_states.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u25616_states-r.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u25598-4.png" crc="46445255" ref="agenda-cultural"/>
+    <file name="u25603-6.png" crc="150050513" ref="agenda-cultural"/>
+    <file name="u25609-4.png" crc="4097236707" ref="agenda-cultural"/>
+    <file name="u25601-4.png" crc="3977160152" ref="agenda-cultural"/>
+    <file name="u25605_states.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u25605_states-r.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u25599-4.png" crc="188571576" ref="agenda-cultural"/>
+    <file name="u25604-6.png" crc="230878892" ref="agenda-cultural"/>
+    <file name="u25610-4.png" crc="3793551704" ref="agenda-cultural"/>
+    <file name="u25602-4.png" crc="4061077428" ref="agenda-cultural"/>
+    <file name="u25606_states.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u25606_states-r.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u25600-4.png" crc="436082839" ref="agenda-cultural"/>
+    <file name="u25755-6.png" crc="4228139119" ref="agenda-cultural"/>
+    <file name="u25761-4.png" crc="4284034365" ref="agenda-cultural"/>
+    <file name="u25766-4.png" crc="10364663" ref="agenda-cultural"/>
+    <file name="u25771_states.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u25771_states-r.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u25776-4.png" crc="74360991" ref="agenda-cultural"/>
+    <file name="u25809-6.png" crc="52557519" ref="agenda-cultural"/>
+    <file name="u25922-4.png" crc="478695245" ref="agenda-cultural"/>
+    <file name="u25804-4.png" crc="213565087" ref="agenda-cultural"/>
+    <file name="u25805_states.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u25805_states-r.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u25814-4.png" crc="398889765" ref="agenda-cultural"/>
+    <file name="u25810-6.png" crc="4009056978" ref="agenda-cultural"/>
+    <file name="u25806-4.png" crc="301255881" ref="agenda-cultural"/>
+    <file name="u25807-4.png" crc="3967009051" ref="agenda-cultural"/>
+    <file name="u25808_states.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u25808_states-r.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u25790-4.png" crc="4068392483" ref="agenda-cultural"/>
+    <file name="u25795-6.png" crc="4162382199" ref="agenda-cultural"/>
+    <file name="u25801-4.png" crc="288575701" ref="agenda-cultural"/>
+    <file name="u25793-4.png" crc="4029137877" ref="agenda-cultural"/>
+    <file name="u25797_states.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u25797_states-r.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u25791-4.png" crc="323361195" ref="agenda-cultural"/>
+    <file name="u25796-6.png" crc="222549277" ref="agenda-cultural"/>
+    <file name="u25802-4.png" crc="270928309" ref="agenda-cultural"/>
+    <file name="u25794-4.png" crc="4201774076" ref="agenda-cultural"/>
+    <file name="u25798_states.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u25798_states-r.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u25792-4.png" crc="4068392483" ref="agenda-cultural"/>
+    <file name="u28726-4.png" crc="3768228871" ref="agenda-cultural:reseñas-y-críticas"/>
+    <file name="u28723-4.png" crc="420616236" ref="agenda-cultural:reseñas-y-críticas"/>
+    <file name="u20605-42.png" crc="51143714" ref="agenda-cultural"/>
+    <file name="u20615-42.png" crc="145748340" ref="agenda-cultural"/>
+    <file name="u20099-62.png" crc="35150756" ref="agenda-cultural"/>
+    <file name="u20178-62.png" crc="285218282" ref="agenda-cultural"/>
+    <file name="u20284-62.png" crc="22788494" ref="agenda-cultural"/>
+    <file name="u20355-62.png" crc="337134956" ref="agenda-cultural"/>
+    <file name="u19831-42.png" crc="439110456" ref="agenda-cultural"/>
+    <file name="u20108-42.png" crc="304801521" ref="agenda-cultural"/>
+    <file name="u20183-42.png" crc="4016575499" ref="agenda-cultural"/>
+    <file name="u20195-42.png" crc="83058273" ref="agenda-cultural"/>
+    <file name="u20289-42.png" crc="3797859046" ref="agenda-cultural"/>
+    <file name="u20293-42.png" crc="294101922" ref="agenda-cultural"/>
+    <file name="u20351-42.png" crc="349496979" ref="agenda-cultural"/>
+    <file name="u20347-42.png" crc="453853509" ref="agenda-cultural"/>
+    <file name="u20191-42.png" crc="511020623" ref="agenda-cultural"/>
+    <file name="u20301-42.png" crc="419982933" ref="agenda-cultural"/>
+    <file name="u20339-42.png" crc="4243745221" ref="agenda-cultural"/>
+    <file name="u20128_states2.png" crc="4035263315" ref="agenda-cultural"/>
+    <file name="u20128_states-r2.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u20187_states2.png" crc="4035263315" ref="agenda-cultural"/>
+    <file name="u20187_states-r2.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u20305_states2.png" crc="4035263315" ref="agenda-cultural"/>
+    <file name="u20305_states-r2.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u20343_states2.png" crc="4035263315" ref="agenda-cultural"/>
+    <file name="u20343_states-r2.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u20137-42.png" crc="451646456" ref="agenda-cultural"/>
+    <file name="u20362-62.png" crc="3875346561" ref="agenda-cultural"/>
+    <file name="u20440-62.png" crc="212151970" ref="agenda-cultural"/>
+    <file name="u20479-62.png" crc="4148188730" ref="agenda-cultural"/>
+    <file name="u20515-62.png" crc="3792716972" ref="agenda-cultural"/>
+    <file name="u20548-62.png" crc="3952802062" ref="agenda-cultural"/>
+    <file name="u20584-62.png" crc="3843768688" ref="agenda-cultural"/>
+    <file name="u20359-42.png" crc="532098722" ref="agenda-cultural"/>
+    <file name="u20360-42.png" crc="284823769" ref="agenda-cultural"/>
+    <file name="u20449-42.png" crc="43766649" ref="agenda-cultural"/>
+    <file name="u20446-42.png" crc="454273429" ref="agenda-cultural"/>
+    <file name="u20482-42.png" crc="4024473972" ref="agenda-cultural"/>
+    <file name="u20485-42.png" crc="276645303" ref="agenda-cultural"/>
+    <file name="u20518-42.png" crc="4131433913" ref="agenda-cultural"/>
+    <file name="u20521-42.png" crc="4032870778" ref="agenda-cultural"/>
+    <file name="u20554-42.png" crc="4036253627" ref="agenda-cultural"/>
+    <file name="u20557-42.png" crc="333046628" ref="agenda-cultural"/>
+    <file name="u20587-42.png" crc="314019832" ref="agenda-cultural"/>
+    <file name="u20590-42.png" crc="203449517" ref="agenda-cultural"/>
+    <file name="u20363_states2.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u20363_states-r2.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u20361-42.png" crc="172828167" ref="agenda-cultural"/>
+    <file name="u20455_states2.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u20455_states-r2.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u20452-42.png" crc="89045385" ref="agenda-cultural"/>
+    <file name="u20488_states2.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u20488_states-r2.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u20491-42.png" crc="246652598" ref="agenda-cultural"/>
+    <file name="u20524_states2.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u20524_states-r2.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u20527-42.png" crc="4157908731" ref="agenda-cultural"/>
+    <file name="u20560_states2.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u20560_states-r2.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u20563-42.png" crc="237721791" ref="agenda-cultural"/>
+    <file name="u20593_states2.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u20593_states-r2.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u20596-42.png" crc="484990802" ref="agenda-cultural"/>
+    <file name="u24316-62.png" crc="4154623691" ref="agenda-cultural"/>
+    <file name="u25359-42.png" crc="131368727" ref="agenda-cultural"/>
+    <file name="u25427-42.png" crc="131368727" ref="agenda-cultural"/>
+    <file name="u24314-42.png" crc="4210302473" ref="agenda-cultural"/>
+    <file name="u24315-42.png" crc="131368727" ref="agenda-cultural"/>
+    <file name="u24313-42.png" crc="435966562" ref="agenda-cultural"/>
+    <file name="u24319_states2.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u24319_states-r2.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u24317-62.png" crc="4080948168" ref="agenda-cultural"/>
+    <file name="u24310-42.png" crc="522079398" ref="agenda-cultural"/>
+    <file name="u24312-42.png" crc="416954624" ref="agenda-cultural"/>
+    <file name="u24311-42.png" crc="314829013" ref="agenda-cultural"/>
+    <file name="u24318_states2.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u24318_states-r2.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u25380-62.png" crc="4080948168" ref="agenda-cultural"/>
+    <file name="u25442-62.png" crc="197223968" ref="agenda-cultural"/>
+    <file name="u25375-42.png" crc="195005214" ref="agenda-cultural"/>
+    <file name="u25437-42.png" crc="3883871100" ref="agenda-cultural"/>
+    <file name="u25370-42.png" crc="482468359" ref="agenda-cultural"/>
+    <file name="u25432-42.png" crc="157862215" ref="agenda-cultural"/>
+    <file name="u25365_states2.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u25365_states-r2.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u25421_states2.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u25421_states-r2.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u25598-42.png" crc="4270064747" ref="agenda-cultural"/>
+    <file name="u25612-42.png" crc="294006759" ref="agenda-cultural"/>
+    <file name="u25618-62.png" crc="341381292" ref="agenda-cultural"/>
+    <file name="u25611-42.png" crc="461041944" ref="agenda-cultural"/>
+    <file name="u25613_states2.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u25613_states-r2.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u25616_states2.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u25616_states-r2.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u25617-62.png" crc="3769301504" ref="agenda-cultural"/>
+    <file name="u25599-42.png" crc="131368727" ref="agenda-cultural"/>
+    <file name="u25600-42.png" crc="3970902768" ref="agenda-cultural"/>
+    <file name="u25776-42.png" crc="4172968994" ref="agenda-cultural"/>
+    <file name="u25614-42.png" crc="3940879437" ref="agenda-cultural"/>
+    <file name="u25615-42.png" crc="144025389" ref="agenda-cultural"/>
+    <file name="u25622-42.png" crc="3970902768" ref="agenda-cultural"/>
+    <file name="u25603-62.png" crc="150050513" ref="agenda-cultural"/>
+    <file name="u25604-62.png" crc="230878892" ref="agenda-cultural"/>
+    <file name="u25755-62.png" crc="4228139119" ref="agenda-cultural"/>
+    <file name="u25609-42.png" crc="4097236707" ref="agenda-cultural"/>
+    <file name="u25610-42.png" crc="3793551704" ref="agenda-cultural"/>
+    <file name="u25761-42.png" crc="4284034365" ref="agenda-cultural"/>
+    <file name="u25601-42.png" crc="3805167097" ref="agenda-cultural"/>
+    <file name="u25602-42.png" crc="326272558" ref="agenda-cultural"/>
+    <file name="u25766-42.png" crc="168413106" ref="agenda-cultural"/>
+    <file name="u25605_states2.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u25605_states-r2.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u25606_states2.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u25606_states-r2.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u25771_states2.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u25771_states-r2.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u25922-42.png" crc="478695245" ref="agenda-cultural"/>
+    <file name="u25804-42.png" crc="213565087" ref="agenda-cultural"/>
+    <file name="u25805_states2.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u25805_states-r2.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u25809-62.png" crc="52557519" ref="agenda-cultural"/>
+    <file name="u25814-42.png" crc="3890435491" ref="agenda-cultural"/>
+    <file name="u25806-42.png" crc="301255881" ref="agenda-cultural"/>
+    <file name="u25807-42.png" crc="336149674" ref="agenda-cultural"/>
+    <file name="u25808_states2.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u25808_states-r2.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u25810-62.png" crc="4009056978" ref="agenda-cultural"/>
+    <file name="u25796-62.png" crc="222549277" ref="agenda-cultural"/>
+    <file name="u25798_states2.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u25798_states-r2.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u25790-42.png" crc="141761998" ref="agenda-cultural"/>
+    <file name="u25791-42.png" crc="478967124" ref="agenda-cultural"/>
+    <file name="u25802-42.png" crc="270928309" ref="agenda-cultural"/>
+    <file name="u25792-42.png" crc="141761998" ref="agenda-cultural"/>
+    <file name="u25794-42.png" crc="22016192" ref="agenda-cultural"/>
+    <file name="u25795-62.png" crc="4162382199" ref="agenda-cultural"/>
+    <file name="u25801-42.png" crc="288575701" ref="agenda-cultural"/>
+    <file name="u25793-42.png" crc="3826516843" ref="agenda-cultural"/>
+    <file name="u25797_states2.png" crc="350076442" ref="agenda-cultural"/>
+    <file name="u25797_states-r2.png" crc="74831077" ref="agenda-cultural"/>
+    <file name="u16115-4.png" crc="4180509973" ref="la-revista"/>
+    <file name="u22636-4.png" crc="4248082510" ref="la-revista"/>
+    <file name="mas-portadas-09.jpg" crc="4176101119" seo="true" ref="la-revista">
+      <caption webpage="la-revista" alt=""/>
+    </file>
+    <file name="mas-portadas-07.jpg" crc="4000037661" seo="true" ref="la-revista">
+      <caption webpage="la-revista" alt=""/>
+    </file>
+    <file name="mas-portadas-05.jpg" crc="143174722" seo="true" ref="la-revista">
+      <caption webpage="la-revista" alt=""/>
+    </file>
+    <file name="mas-portadas-03.jpg" crc="270644350" seo="true" ref="la-revista">
+      <caption webpage="la-revista" alt=""/>
+    </file>
+    <file name="mas-portadas-02.jpg" crc="3805743539" seo="true" ref="la-revista">
+      <caption webpage="la-revista" alt=""/>
+    </file>
+    <file name="mas-portadas-01.jpg" crc="3803338906" seo="true" ref="la-revista">
+      <caption webpage="la-revista" alt=""/>
+    </file>
+    <file name="u26141_states.png" crc="3832664138" ref="la-revista"/>
+    <file name="u26141_states-r.png" crc="4069356304" ref="la-revista"/>
+    <file name="u26547_states.png" crc="3832664138" ref="la-revista"/>
+    <file name="u26547_states-r.png" crc="81835896" ref="la-revista"/>
+    <file name="u26003.png" crc="4104169812" ref="la-revista"/>
+    <file name="u26003-a.png" crc="4104169812" ref="la-revista"/>
+    <file name="u26006-4.png" crc="3772144479" ref="la-revista"/>
+    <file name="u26435_states.png" crc="3832664138" ref="la-revista"/>
+    <file name="u26435_states-r.png" crc="384733558" ref="la-revista"/>
+    <file name="u26557_states.png" crc="3832664138" ref="la-revista"/>
+    <file name="u26557_states-r.png" crc="4231277243" ref="la-revista"/>
+    <file name="u26455_states.png" crc="3832664138" ref="la-revista"/>
+    <file name="u26455_states-r.png" crc="281377639" ref="la-revista"/>
+    <file name="u26567_states.png" crc="3832664138" ref="la-revista"/>
+    <file name="u26567_states-r.png" crc="4171767790" ref="la-revista"/>
+    <file name="u26465_states.png" crc="3832664138" ref="la-revista"/>
+    <file name="u26465_states-r.png" crc="3835460875" ref="la-revista"/>
+    <file name="u26577_states.png" crc="3832664138" ref="la-revista"/>
+    <file name="u26577_states-r.png" crc="3802172832" ref="la-revista"/>
+    <file name="u26485_states.png" crc="3832664138" ref="la-revista"/>
+    <file name="u26485_states-r.png" crc="371444759" ref="la-revista"/>
+    <file name="u16115-42.png" crc="4180509973" ref="la-revista"/>
+    <file name="u22636-42.png" crc="4248082510" ref="la-revista"/>
+    <file name="mas-portadas-09173x247.jpg" crc="327981454" seo="true" ref="la-revista">
+      <caption webpage="la-revista" alt=""/>
+    </file>
+    <file name="mas-portadas-07173x247.jpg" crc="3907561514" seo="true" ref="la-revista">
+      <caption webpage="la-revista" alt=""/>
+    </file>
+    <file name="mas-portadas-05173x247.jpg" crc="84634584" seo="true" ref="la-revista">
+      <caption webpage="la-revista" alt=""/>
+    </file>
+    <file name="mas-portadas-03173x247.jpg" crc="312767935" seo="true" ref="la-revista">
+      <caption webpage="la-revista" alt=""/>
+    </file>
+    <file name="mas-portadas-02173x247.jpg" crc="3820387455" seo="true" ref="la-revista">
+      <caption webpage="la-revista" alt=""/>
+    </file>
+    <file name="mas-portadas-01173x247.jpg" crc="4282328367" seo="true" ref="la-revista">
+      <caption webpage="la-revista" alt=""/>
+    </file>
+    <file name="u26141_states2.png" crc="3912358506" ref="la-revista"/>
+    <file name="u26141_states-r2.png" crc="530158862" ref="la-revista"/>
+    <file name="u26547_states2.png" crc="3912358506" ref="la-revista"/>
+    <file name="u26547_states-r2.png" crc="91421895" ref="la-revista"/>
+    <file name="u260032.png" crc="4104169812" ref="la-revista"/>
+    <file name="u26003-a2.png" crc="4104169812" ref="la-revista"/>
+    <file name="u26006-42.png" crc="3772144479" ref="la-revista"/>
+    <file name="u26435_states2.png" crc="3912358506" ref="la-revista"/>
+    <file name="u26435_states-r2.png" crc="487690278" ref="la-revista"/>
+    <file name="u26557_states2.png" crc="3912358506" ref="la-revista"/>
+    <file name="u26557_states-r2.png" crc="4130976131" ref="la-revista"/>
+    <file name="u26455_states2.png" crc="3912358506" ref="la-revista"/>
+    <file name="u26455_states-r2.png" crc="3998889276" ref="la-revista"/>
+    <file name="u26567_states2.png" crc="3912358506" ref="la-revista"/>
+    <file name="u26567_states-r2.png" crc="4115574469" ref="la-revista"/>
+    <file name="u26465_states2.png" crc="3912358506" ref="la-revista"/>
+    <file name="u26465_states-r2.png" crc="159292948" ref="la-revista"/>
+    <file name="u26577_states2.png" crc="3912358506" ref="la-revista"/>
+    <file name="u26577_states-r2.png" crc="54965294" ref="la-revista"/>
+    <file name="u26485_states2.png" crc="3912358506" ref="la-revista"/>
+    <file name="u26485_states-r2.png" crc="246268979" ref="la-revista"/>
+    <file name="u23223-4.png" crc="433040155" ref="entrevistas"/>
+    <file name="u23230-4.png" crc="265279441" ref="entrevistas"/>
+    <file name="u26819_states.png" crc="4025162899" ref="entrevistas"/>
+    <file name="u26819_states-r.png" crc="4150423033" ref="entrevistas"/>
+    <file name="u26841_states.png" crc="464878421" ref="entrevistas"/>
+    <file name="u26841_states-r.png" crc="157993156" ref="entrevistas"/>
+    <file name="u23223-42.png" crc="433040155" ref="entrevistas"/>
+    <file name="u23230-42.png" crc="3944512780" ref="entrevistas"/>
+    <file name="u26819_states2.png" crc="4025162899" ref="entrevistas"/>
+    <file name="u26819_states-r2.png" crc="4150423033" ref="entrevistas"/>
+    <file name="u26841_states2.png" crc="55911944" ref="entrevistas"/>
+    <file name="u26841_states-r2.png" crc="484178231" ref="entrevistas"/>
+    <file name="u21144-4.png" crc="4166189632" ref="reportajes"/>
+    <file name="ablacion2.png" crc="4140069479" seo="true" ref="reportajes">
+      <caption webpage="reportajes" alt=""/>
+      <caption webpage="reportajes" alt=""/>
+    </file>
+    <file name="u21147-4.png" crc="3926728322" ref="reportajes"/>
+    <file name="u26858_states.png" crc="342063197" ref="reportajes"/>
+    <file name="u26858_states-r.png" crc="4008303904" ref="reportajes"/>
+    <file name="u26859_states.png" crc="464878421" ref="reportajes"/>
+    <file name="u26859_states-r.png" crc="157993156" ref="reportajes"/>
+    <file name="u21144-42.png" crc="4166189632" ref="reportajes"/>
+    <file name="u21147-42.png" crc="3926728322" ref="reportajes"/>
+    <file name="u26858_states2.png" crc="342063197" ref="reportajes"/>
+    <file name="u26858_states-r2.png" crc="4008303904" ref="reportajes"/>
+    <file name="u26859_states2.png" crc="55911944" ref="reportajes"/>
+    <file name="u26859_states-r2.png" crc="484178231" ref="reportajes"/>
+    <file name="u22695-4.png" crc="468761170" ref="artículos"/>
+    <file name="u22764-4.png" crc="288462900" ref="artículos"/>
+    <file name="u26808_states.png" crc="72842278" ref="artículos"/>
+    <file name="u26808_states-r.png" crc="343840925" ref="artículos"/>
+    <file name="u26881_states.png" crc="3896552801" ref="artículos"/>
+    <file name="u26881_states-r.png" crc="4100815797" ref="artículos"/>
+    <file name="u22695-42.png" crc="468761170" ref="artículos"/>
+    <file name="u22764-42.png" crc="288462900" ref="artículos"/>
+    <file name="u26808_states2.png" crc="4025792814" ref="artículos"/>
+    <file name="u26808_states-r2.png" crc="111512366" ref="artículos"/>
+    <file name="u26881_states2.png" crc="4341187" ref="artículos"/>
+    <file name="u26881_states-r2.png" crc="19533697" ref="artículos"/>
+    <file name="movies.png" crc="417992337" seo="true" ref="reseñas-y-críticas">
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="reseñas-y-críticas" alt=""/>
+    </file>
+    <file name="7semanas2.png" crc="358886023" seo="true" ref="reseñas-y-críticas">
+      <caption webpage="reseñas-y-críticas" alt=""/>
+      <caption webpage="reseñas-y-críticas" alt=""/>
+    </file>
+    <file name="u21033-4.png" crc="231980009" ref="reseñas-y-críticas"/>
+    <file name="u21036-4.png" crc="4103932839" ref="reseñas-y-críticas"/>
+    <file name="u21036-42.png" crc="4103932839" ref="reseñas-y-críticas"/>
+    <file name="u21033-42.png" crc="231980009" ref="reseñas-y-críticas"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="182051559" ref="phone>artículos:phone>index:phone>secciones"/>
+      <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="phone>artículos:phone>index:phone>secciones"/>
+      <file name="master_celeste.css" crc="431887892" ref="phone>entrevistas:phone>voces:phone>reportajes:phone>la-revista"/>
+      <file name="nomq_preview_master_celeste.css" crc="3824530138" ref="phone>entrevistas:phone>voces:phone>reportajes:phone>la-revista"/>
+      <file name="master_naranjo.css" crc="4070666166" ref="phone>reseñas-y-críticas:phone>agenda-cultural"/>
+      <file name="nomq_preview_master_naranjo.css" crc="3824530138" ref="phone>reseñas-y-críticas:phone>agenda-cultural"/>
+      <file name="entrevistas.css" crc="447814511" ref="phone>entrevistas"/>
+      <file name="voces.css" crc="3834952209" ref="phone>voces"/>
+      <file name="nomq_voces.css" crc="3824530138" ref="phone>voces"/>
+      <file name="iefonts_voces.css" crc="323643661" ref="phone>voces"/>
+      <file name="reportajes.css" crc="4280916324" ref="phone>reportajes"/>
+      <file name="art_culos.css" crc="379075531" ref="phone>artículos"/>
+      <file name="nomq_art_culos.css" crc="3824530138" ref="phone>artículos"/>
+      <file name="rese_as-y-cr_ticas.css" crc="3986051061" ref="phone>reseñas-y-críticas"/>
+      <file name="index.css" crc="4161793642" ref="phone>index"/>
+      <file name="agenda-cultural.css" crc="4098176544" ref="phone>agenda-cultural"/>
+      <file name="nomq_agenda-cultural.css" crc="3824530138" ref="phone>agenda-cultural"/>
+      <file name="secciones.css" crc="9069196" ref="phone>secciones"/>
+      <file name="la-revista.css" crc="3935687181" ref="phone>la-revista"/>
+    </folder>
+    <file name="index.html" crc="517210782" seo="true" mt="1496085170183" redirect="true"/>
+    <file name="secciones.html" crc="523305243" seo="true" mt="1496085170183" redirect="true"/>
+    <file name="entrevistas.html" crc="3996341714" seo="true" mt="1496085093144" redirect="true"/>
+    <file name="reportajes.html" crc="4160513477" seo="true" mt="1496085093144" redirect="true"/>
+    <file name="artículos.html" crc="4065596356" seo="true" mt="1496085170183" redirect="true"/>
+    <file name="reseñas-y-críticas.html" crc="3967942249" seo="true" mt="1496085191331" redirect="true"/>
+    <file name="agenda-cultural.html" crc="4054160968" seo="true" mt="1496086423841" redirect="true"/>
+    <file name="la-revista.html" crc="225156317" seo="true" mt="1496085093144" redirect="true"/>
+    <file name="voces.html" crc="301684869" seo="true" mt="1496085093144" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4160180948" seo="true" mt="1496038555554" redirect="true"/>
+  <file name="secciones.html" crc="4279100882" seo="true" mt="1496080606600" redirect="true"/>
+  <file name="voces.html" crc="263953988" seo="true" mt="1496038721846" redirect="true"/>
+  <file name="agenda-cultural.html" crc="4266938377" seo="true" mt="1496086637489" redirect="true"/>
+  <file name="la-revista.html" crc="4088747550" seo="true" mt="1496084012428" redirect="true"/>
+  <file name="entrevistas.html" crc="335269720" seo="true" mt="1496035485677" redirect="true"/>
+  <file name="reportajes.html" crc="3915613370" seo="true" mt="1496034963997" redirect="true"/>
+  <file name="artículos.html" crc="260887054" seo="true" mt="1496034842302" redirect="true"/>
+  <file name="reseñas-y-críticas.html" crc="4129138443" seo="true" mt="1496083257113" redirect="true"/>
+</manifest>
